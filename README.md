@@ -47,6 +47,8 @@ Setup for the benchmark model included configuring the early stopping strategy a
 ### Evaluating Performance
 
 Evaluation was conducted using both a pretrained model (Distil-Roberta) and a fine-tuned model (Fin Bert) on testing data.
+![Loss](Images/custome-loss.png)
+![Accuracy](Images/custome-accuracy.png)
 
 ### Comparative Analysis
 
