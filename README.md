@@ -51,6 +51,7 @@ Evaluation was conducted using both a pretrained model (Distil-Roberta) and a fi
 ### Comparative Analysis
 
 The performance of different models was summarized, with Fin Bert finetuned outperforming others.
+![alt text](Images/comaparativeAnalysis.png)
 
 ## Performance Optimization
 
