@@ -37,6 +37,8 @@ The data collection process involved gathering information from several key sour
 ### Preprocessing
 
 Preprocessing steps for the custom model included encoding labels, text normalization, tokenization, and vectorization.
+![alt text](Images/data_dist.png)
+![alt text](Images/word_dist.png)
 
 ### Custom Model (RNN)
 
